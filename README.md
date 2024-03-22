@@ -1,4 +1,4 @@
-# IP Adresi Port Tarama Aracı
+# Subnet Port Tarama Aracı
 
 Bu Python betiği, belirli bir alt ağdaki IP adreslerinin açık portlarını taramak için kullanılır. Betik, `socket`, `ipaddress` ve `concurrent.futures` modüllerini kullanır ve tarama sonuçlarını `output.txt` dosyasına kaydeder.
 
