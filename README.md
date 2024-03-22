@@ -17,6 +17,6 @@ Aşağıdaki örnek çıktıda, `output.png` dosyasında görülen tarama sonuç
 ## Örnek
 
 ```python
-subnet = "193.x.x.0/24"
+subnet = "x.x.x.0/24"
 start_port = 1
 end_port = 6500
