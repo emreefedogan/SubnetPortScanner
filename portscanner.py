@@ -3,7 +3,7 @@ import ipaddress
 import concurrent.futures
 from colorama import Fore, Style
 
-subnet = "193.x.x.0/24"
+subnet = "193.x.x.x/24"
 start_port = 1
 end_port = 6500
 
